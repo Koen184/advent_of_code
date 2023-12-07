@@ -1,2 +1,2 @@
 # advent
-Repo for advent codes.
+Repo for advent of code.
